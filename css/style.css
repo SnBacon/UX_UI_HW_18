@@ -42,33 +42,6 @@ body {
     padding-left: 20%;
 } 
 
-
-.flexContainer {
-    display: flex;
-    flex-direction: row;
-    width: 33%;
-}
-
-.userResearch {
-    width: 33%;  
-}
-
-.userEmpathy {
-    width: 33%;
-}
-
-.qualitativeInterviews {
-    width: 33%;
-}
-
-.workGrid {
-    display: grid;
-}
-
-h1 {
-    text-align: center;
-}
-
 footer {
     background-color: #373738;
     width: 100%;
